@@ -29,7 +29,7 @@ Welcome to my portfolio! Here, I showcase my expertise in transforming raw data 
 - **Channel**: Explore platform contributions like Amazon, Flipkart, Myntra, etc.
 
 ## Tools and Skills
-- **Tools**: Power BI, Microsoft Excel, Python (Pandas, Matplotlib).
+- **Tools**: Microsoft Excel, Python .
 - **Key Skills**:
    - Data Cleaning & Analysis.
    - Data Visualization & EDA.
