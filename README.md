@@ -19,8 +19,8 @@ Welcome to my portfolio! Here, I showcase my expertise in transforming raw data 
    - Peak in March, steady decline towards year-end.
 
 ### Visuals
-![Order Status by Group](https://github.com/ritamganguli/vrinda_store_analysis/blob/main/image%20(30).png)
 ![Vrinda Store Analysis](https://github.com/ritamganguli/vrinda_store_analysis/blob/main/image%20(31).png)
+![Order Status by Group](https://github.com/ritamganguli/vrinda_store_analysis/blob/main/image%20(30).png)
 
 ## Filters and Interactivity
 - **Gender**: Men/Women.
